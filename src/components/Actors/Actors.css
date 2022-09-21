@@ -1,0 +1,11 @@
+.all-actors {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.actor-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.selected-actors {
+  background-color: rgb(198, 196, 196);
+}

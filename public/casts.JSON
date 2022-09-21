@@ -1,0 +1,416 @@
+[
+  {
+    "id": "1",
+    "name": "Jeet",
+    "DOB": "30 November 1978",
+    "location": "West Bengal, India",
+    "language": "Bangla",
+    "Price": "1200000",
+    "img": "https://www.mrdustbin.com/en/wp-content/uploads/2021/01/jeet-768x770.jpg",
+    "rating": [
+      {
+        "action": "4",
+        "drama": "3",
+        "romance": "5",
+        "style": "4",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Dev",
+    "DOB": "25 December 1982",
+    "location": "West Bengal, India",
+    "language": "Bangla",
+    "Price": "1000000",
+    "img": "https://www.mrdustbin.com/en/wp-content/uploads/2021/01/dev-768x857.jpg",
+    "rating": [
+      {
+        "action": "3",
+        "drama": "2",
+        "romance": "4",
+        "style": "3",
+        "skill": "4"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Prosenjit Chatterjee",
+    "DOB": "30 September 1962",
+    "location": "West Bengal, India",
+    "language": "Bangla",
+    "Price": "2500000",
+    "img": "https://www.mrdustbin.com/en/wp-content/uploads/2021/01/Prosenjit-Chatterjee.jpg",
+    "rating": [
+      {
+        "action": "4",
+        "drama": "5",
+        "romance": "3",
+        "style": "5",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Shakib Khan",
+    "DOB": "28 March 1979",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "1800000",
+    "img": "https://www.thefamouspeople.com/profiles/thumbs/shakib-khan-1.jpg",
+    "rating": [
+      {
+        "action": "3",
+        "drama": "3",
+        "romance": "5",
+        "style": "4",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Tahsan Rahman Khan",
+    "DOB": "18 October 1979",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "1400000",
+    "img": "https://www.thefamouspeople.com/profiles/thumbs/tahsan-rahman-khan-1.jpg",
+    "rating": [
+      {
+        "action": "4",
+        "drama": "5",
+        "romance": "5",
+        "style": "3",
+        "skill": "4"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Afran Nisho",
+    "DOB": "8 December 1980",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "1500000",
+    "img": "https://www.thefamouspeople.com/profiles/thumbs/afran-nisho-1.jpg",
+    "rating": [
+      {
+        "action": "4",
+        "drama": "5",
+        "romance": "4",
+        "style": "5",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Mithun Chakraborty",
+    "DOB": "8 April 1965",
+    "location": "West Bengal, India",
+    "language": "Bangla",
+    "Price": "2200000",
+    "img": "https://www.mrdustbin.com/en/wp-content/uploads/2021/01/Mithun-chakraborty.jpg",
+    "rating": [
+      {
+        "action": "5",
+        "drama": "4",
+        "romance": "4",
+        "style": "5",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Jaya Ahsan",
+    "DOB": "1 July 1983",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "1100000",
+    "img": "https://i2.cinestaan.com/image-bank/1500-1500/191001-192000/191129.jpg",
+    "rating": [
+      {
+        "action": "3",
+        "drama": "5",
+        "romance": "5",
+        "style": "4",
+        "skill": "4"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Srabanti",
+    "DOB": "13 August 1987",
+    "location": "West Bengal, India",
+    "language": "Bangla",
+    "Price": "1300000",
+    "img": "https://starsunfolded.com/wp-content/uploads/2017/07/Srabanti-Chatterjee..jpg",
+    "rating": [
+      {
+        "action": "3",
+        "drama": "5",
+        "romance": "4",
+        "style": "4",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Moushumi",
+    "DOB": "3 November 1973",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "1500000",
+    "img": "https://www.daily-bangladesh.com/media/imgAll/2020June/en/Moushumi-2011030640.jpg",
+    "rating": [
+      {
+        "action": "4",
+        "drama": "4",
+        "romance": "5",
+        "style": "3",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Shabnoor",
+    "DOB": "6 December 1979",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "900000",
+    "img": "https://www.daily-bangladesh.com/media/imgAll/2019July/sabnoor-1907300734.jpg",
+    "rating": [
+      {
+        "action": "5",
+        "drama": "3",
+        "romance": "4",
+        "style": "4",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Chanchal Chowdhury",
+    "DOB": "1 June 1974",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "1800000",
+    "img": "https://www.thefamouspeople.com/profiles/thumbs/chanchal-chowdhury-1.jpg",
+    "rating": [
+      {
+        "action": "5",
+        "drama": "5",
+        "romance": "3",
+        "style": "3",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Arifin Shuvoo",
+    "DOB": "2 February 1982",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "1350000",
+    "img": "https://www.thefamouspeople.com/profiles/thumbs/arifin-shuvo-1.jpg",
+    "rating": [
+      {
+        "action": "4",
+        "drama": "3",
+        "romance": "4",
+        "style": "5",
+        "skill": "4"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Tom Hanks",
+    "DOB": "9 July 1956",
+    "location": "USA",
+    "language": "English",
+    "Price": "3000000",
+    "img": "https://static.toiimg.com/thumb/msid-79853640,imgsize-69335,width-800,height-600,resizemode-75/79853640.jpg",
+    "rating": [
+      {
+        "action": "5",
+        "drama": "5",
+        "romance": "3",
+        "style": "5",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Tom Cruise",
+    "DOB": "3 July 1962",
+    "location": "USA",
+    "language": "English",
+    "Price": "4000000",
+    "img": "https://images.mubicdn.net/images/cast_member/2184/cache-2992-1547409411/image-w856.jpg",
+    "rating": [
+      {
+        "action": "5",
+        "drama": "3",
+        "romance": "4",
+        "style": "5",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Dakota Johnson",
+    "DOB": "4 October 1989",
+    "location": "USA",
+    "language": "English",
+    "Price": "2330000",
+    "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dakota-johnson-1605784615.jpg",
+    "rating": [
+      {
+        "action": "3",
+        "drama": "4",
+        "romance": "5",
+        "style": "5",
+        "skill": "4"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Johnny Depp",
+    "DOB": "9 June 1963",
+    "location": "USA",
+    "language": "English",
+    "Price": "6500000",
+    "img": "https://variety.com/wp-content/uploads/2022/04/johnny-depp.jpg",
+    "rating": [
+      {
+        "action": "5",
+        "drama": "5",
+        "romance": "4",
+        "style": "5",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Shah Rukh Khan",
+    "DOB": "2 November 1965",
+    "location": "Mumbai, India",
+    "language": "Hindi",
+    "Price": "4500000",
+    "img": "https://static.toiimg.com/thumb/msid-89587096,width-800,height-600,resizemode-75,imgsize-39464,pt-32,y_pad-40/89587096.jpg",
+    "rating": [
+      {
+        "action": "5",
+        "drama": "5",
+        "romance": "5",
+        "style": "5",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Deepika Padukone",
+    "DOB": "5 January 1986",
+    "location": "Mumbai, India",
+    "language": "Hindi",
+    "Price": "3250000",
+    "img": "https://images.hindustantimes.com/img/2022/02/20/550x309/Deepika_Padukone_Gehraiyaan_1645337273884_1645337274005.jpg",
+    "rating": [
+      {
+        "action": "4",
+        "drama": "5",
+        "romance": "5",
+        "style": "5",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Hero Alom",
+    "DOB": "20 January 1985 ",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "250000",
+    "img": "https://images.news18.com/ibnlive/uploads/2022/08/hero-alom-16596708883x2.png",
+    "rating": [
+      {
+        "action": "3",
+        "drama": "1",
+        "romance": "1",
+        "style": "2",
+        "skill": "2"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Johnny Lever",
+    "DOB": "14 August 1957",
+    "location": "Mumbai, India",
+    "language": "Hindi",
+    "Price": "1100000",
+    "img": "https://www.dekhnews.com/entertainment/wp-content/uploads/2020/04/maxresdefault-1024x576-1.jpg",
+    "rating": [
+      {
+        "action": "2",
+        "drama": "5",
+        "romance": "2",
+        "style": "4",
+        "skill": "5"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Ananta Jalil",
+    "DOB": "14 August 1977",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "1400000",
+    "img": "https://www.observerbd.com/2022/06/20/observerbd.com_1655737401.jpg",
+    "rating": [
+      {
+        "action": "4",
+        "drama": "3",
+        "romance": "2",
+        "style": "3",
+        "skill": "3"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Barsha",
+    "DOB": "14 August 1984",
+    "location": "Dhaka, Bangladesh",
+    "language": "Bangla",
+    "Price": "800000",
+    "img": "https://www.celebrityborn.com/admin/assets/images/people/afiea_nusrat_barsha_566.jpg",
+    "rating": [
+      {
+        "action": "2",
+        "drama": "3",
+        "romance": "3",
+        "style": "2",
+        "skill": "3"
+      }
+    ]
+  }
+]

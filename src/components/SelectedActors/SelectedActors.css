@@ -1,0 +1,23 @@
+.actor-name {
+  text-align: left;
+  font-size: 1.2vw;
+}
+.price-text {
+  font-size: 1.2vw;
+}
+.selected-actor-card {
+  box-shadow: 2px 5px 5px gray;
+  margin-bottom: 2px;
+  padding-left: 2px;
+  padding-right: 2px;
+  background-color: rgb(189, 152, 252);
+
+  border-radius: 5px;
+  height: 40px;
+}
+
+.selected-actor-img {
+  width: 20%;
+  object-fit: cover;
+  border-radius: 5px;
+}
