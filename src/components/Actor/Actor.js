@@ -17,9 +17,11 @@ const Actor = (props) => {
           <div className="d-flex justify-content-between">
             <div className="w-50 details-container">
               <p className="card-text"> Birthday: </p>
-              <p className="card-text">{DOB}</p>
+              <p className="card-text text-primary fw-bold fst-italic">{DOB}</p>
               <p className="card-text"> Location: </p>
-              <p className="card-text">{location}</p>
+              <p className="card-text text-primary fw-bold fst-italic">
+                {location}
+              </p>
             </div>
             <div className="w-50 rating-container">
               <div className="d-flex">
@@ -79,7 +81,10 @@ const Actor = (props) => {
               </div>
             </div>
           </div>
-          <p> Budget: BDT-{Price}</p>
+          <p className="fw-bold text-success text-center">
+            {" "}
+            Budget: BDT {Price}
+          </p>
           <Button className="add-button" onClick={props.handleClick}>
             Add in Movie
           </Button>
